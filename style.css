@@ -1,0 +1,11 @@
+h1 {
+	font-size: 60px;
+	text-align: center;
+	font-family: Helvetica, sans-serif;
+}
+body{
+	font-size: 30px;
+	text-align: center;
+	background-image: url(images/x.png);
+}
+
